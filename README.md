@@ -1,5 +1,17 @@
 # Aise
 
+## Intoduction :
+
+Dans ce projet j'ai explorer les fonctionnalité de l'appel systeme ptrace qui ma permet d'analyse un processus enfant et d'avoir des informations le concernons et cela on utilisant ces methodes commme :
+
+PTRACE_TRACEME : qui permet de donnée la permissions au pere d'analyser le code
+
+PTRACE_SINGLESTEP : qui permet de parcourir pas a pas
+
+PTRACE_GETREGS :  d'avoir des informations a propos des registres 
+
+PTRACE_PEEKTEXT : d'avoir des informations a propos de la memoire
+
 ## Tâches réalisées  :
 
 Affichage des information liées au PID
