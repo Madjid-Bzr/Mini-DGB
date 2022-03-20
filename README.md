@@ -1,11 +1,11 @@
 # Aise
 
-Dans ce projet  :
+##Tâches réalisées  :
 
-Affiché les information a propos de PID
+Affichage des information liées au PID
 
-Parcourer avec singlestep
+Parcourir avec singlestep
 
 Afficher l'adresse de depart, fin et nb d'instruction
 
-Afficher les registers
+Affichages des registers
