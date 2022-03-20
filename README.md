@@ -21,3 +21,7 @@ Parcourir avec singlestep
 Afficher l'adresse de depart, fin et nb d'instruction
 
 Affichages des registers
+
+Affichages des information d'ELF
+
+Essayer de faire des breakpoint
