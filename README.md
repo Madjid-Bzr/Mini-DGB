@@ -14,6 +14,8 @@ PTRACE_PEEKTEXT : d'avoir des informations a propos de la memoire
 
 ## Tâches réalisées  :
 
+Faire une boucle infiné qui demande a l'utilisateur de faire quoi comme le ferais un GDB
+
 Affichage des information liées au PID
 
 Parcourir avec singlestep
